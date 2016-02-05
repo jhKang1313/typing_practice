@@ -1,0 +1,10 @@
+Debug/
+Release/
+*.tlog
+*.sdf
+*.vcxproj
+*.sln
+*.filters
+*.user
+*.aps
+*.opensdf
